@@ -3,7 +3,7 @@
 
 [Measure Killer](https://www.brunner.bi/measurekiller) is a tool developed by Burnner BI, as a solution for exploring the used and unused objects within Power BI Reports.
 
-To help solve problems for the clients of my [Manga Solutions](www.mangasolutions.com) consulting practice, I have created a Power BI report to integrate and analyse the usage data that can be exported from Measure Killer. 
+I have created a Power BI report to integrate and analyse the usage data that can be exported from Measure Killer. 
 
 ## Usage page 
 
