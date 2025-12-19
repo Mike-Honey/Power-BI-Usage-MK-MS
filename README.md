@@ -22,7 +22,7 @@ Here's how to use this solution to analyse your own Power BI semantic models and
 1. Open the target Power BI semantic model file in [Power BI Desktop](https://www.microsoft.com/en-au/power-platform/products/power-bi/desktop)
 2. Launch the [Measure Killer](https://www.brunner.bi/measurekiller) application, connect to your Power BI semantic model and reports, **Run** the process and then use the menu to Export in Excel format.
 3. Optionally, close Power BI Desktop and Measure Killer
-4. Open your copy of the PBIX file in this project, using Power BI Desktop. My naming standard is **[source PBIX/PBIP file name] - Power-BI-Usage-MK-MS.pbix**. For easy maintenance, I would save a copy of the PBIX file from this project for each source analysis I want to maintain.
+4. Open your copy of the PBIX file in this project, using Power BI Desktop. My naming standard is **[source PBIX/PBIP file name] - Power-BI-Usage-MK-MS.pbix**. For easy maintenance, I save a copy of the PBIX file from this project for each source analysis I want to maintain.
 5. In the Power BI window for the Power-BI-Usage-MK-MS file, navigate to **Transform data / Edit parameters**.
 6. To get the value for the **ExcelExportFile** parameter, you can use Windows Explorer to navigate to the Exported Excel file, then right-click and choose **Copy as path**. After pasting that into Power BI, be sure to remove the leading and trailing quotes.
 7. Hit **OK**, then **Apply Changes**.
