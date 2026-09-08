@@ -7,9 +7,9 @@ I have created a Power BI report to integrate and analyse the usage data that ca
 
 ## Usage page 
 
-[Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiMDk2YjA4MjgtYjkzNC00NDZkLTgwODItOGZiMzVkMWQ2NzMxIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
+[Link to interactive DataViz](https://app.powerbi.com/view?r=eyJrIjoiMTE2YWE4ODMtMTEyZi00MTIyLWI5MzEtMzA0NDEyODBlNWIzIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
 
-[![Click to view and interact with the report](https://github.com/Mike-Honey/Power-BI-Usage-MK-MS/blob/main/Power-BI-Usage-MK-MS-Usage-Page.png?raw=true)](https://app.powerbi.com/view?r=eyJrIjoiMDk2YjA4MjgtYjkzNC00NDZkLTgwODItOGZiMzVkMWQ2NzMxIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
+[![Click to view and interact with the report](https://github.com/Mike-Honey/Power-BI-Usage-MK-MS/blob/main/Power-BI-Usage-MK-MS-Usage-Page.png?raw=true)](https://app.powerbi.com/view?r=eyJrIjoiMTE2YWE4ODMtMTEyZi00MTIyLWI5MzEtMzA0NDEyODBlNWIzIiwidCI6ImRjMWYwNGY1LWMxZTUtNDQyOS1hODEyLTU3OTNiZTQ1YmY5ZCIsImMiOjEwfQ%3D%3D)
 
 The intended use of the **Summary** page is to quickly scan the connections between pages, visuals, tables, fields and measures, in any direction. Selecting any entry of any type will cross-filter all the other objects.  For example selecting a Page object will cross filter to show all the visuals on that page, and the tables, fields and measures that they reference. By contrast, selecting a Field  object will cross-filter to show the pages and visuals where it is used, and it's home table.
 
